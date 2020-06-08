@@ -1,7 +1,7 @@
 # Juki head magnet holder
 > Juki head magnet holder for pick and place machine
 
-<img src = “Picture/Juki_magnet_holder.png ” width =100 height =174>
+<img src = "Pictures/Juki_magnet_holder.png" width = 100>
 
 
 This part was printed with SLA 3D printer.
